@@ -13,7 +13,7 @@ This assignment builds an end-to-end machine learning workflow on Tesla deliveri
 
 ## Main notebook
 
-- [Tesla_ML_Pipeline_final.ipynb](Tesla_ML_Pipeline_final.ipynb)
+- [Week2_abhishek_upadhyay.ipynb](week2_abhishek_upadhyay.ipynb)
 
 ## Run order
 
